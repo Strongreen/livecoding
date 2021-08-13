@@ -4,7 +4,7 @@ Projeto de Live Coding
 
 # 1° live coding
 
-Exercícios desenvolvidos
+Exercícios desenvolvidos <br>
 1 - Desenhar um quadrado utilizando asteriscos
 Chamar a função abaixo passando um **numero** como parametro
 ```
