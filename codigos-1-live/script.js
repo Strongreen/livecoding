@@ -33,7 +33,3 @@ function palindromo(palavra){
         console.log('Não, não é um Palindromo')
     }
 }
-
-let teste = 'casa'
-
-palindromo(teste)
