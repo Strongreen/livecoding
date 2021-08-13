@@ -5,7 +5,7 @@ Projeto de Live Coding
 # 1° live coding
 
 Exercícios desenvolvidos: <br>
-[codigos na pasta codigos-1-live]
+**[codigos na pasta codigos-1-live]**<br>
 1 - Desenhar um quadrado utilizando asteriscos
 Chamar a função abaixo passando um **numero** como parametro
 ```
